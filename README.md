@@ -12,13 +12,17 @@ Informations about downloading are available in <a href="README.md/Download">Dow
 
 ## Version 1.0
 
-<a href="/traducteur\\\_morse\\\_2/">Version 1.0</a><br>
+<a href="/traducteur\\\\\\\\\\\\\\\_morse\\\\\\\\\\\\\\\_2/">Version 1.0</a><br>
 Initial version of the translator.
 
 ## Version 1.1
 
-<a href="/Traducteur\\\_Morse-v.1.1/">Version 1.1</a><br>
+<a href="/Traducteur\\\\\\\\\\\\\\\_Morse-v.1.1/">Version 1.1</a><br>
 Second version of the translator. I fix a problem that appear when we put a space on the morse code that we write on the interface. Now, the space is represented as "//".
+
+## Version 1.2
+
+Third version of the translator. Now, I made an installer. I add an auto-translate function. I change the morse characters by emoji, and I add a bar to type 
 
 # Download
 
