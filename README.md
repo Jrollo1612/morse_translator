@@ -7,8 +7,8 @@ Informations about downloading are available in <a href="README.md/Download">Dow
 # Versions
 
 * <a href="Version 1.0">Version 1.0</a>
-* Version 1.0
 * <a href="Version 1.1">Version 1.1</a>
+* <a href="Version 1.2">Version 1.2</a>
 
 ## Version 1.0
 
